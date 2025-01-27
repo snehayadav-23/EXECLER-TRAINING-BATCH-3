@@ -1,4 +1,4 @@
-public class demo02 {
+public class Demo002 {
     public static void main(String[] args) {
         // Define the range
         int n = 100;
